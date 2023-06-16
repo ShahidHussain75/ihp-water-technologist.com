@@ -1,0 +1,41 @@
+﻿<!--Wrap each ticker cotent inside <div class="message"> tag -->
+
+<div>
+
+<div class="message">
+<img src="images/sliderimages/slide1.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide2.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide3.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide4.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide5.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide6.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide7.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide8.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/slide9.jpg">
+</div>
+
+</div>

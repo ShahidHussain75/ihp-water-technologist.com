@@ -1,0 +1,23 @@
+﻿<!--Wrap each ticker cotent inside <div class="message"> tag -->
+
+<div>
+
+<div class="message">
+<img src="images/sliderimages/environmental_works1.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/environmental_works2.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/environmental_works3.jpg">
+</div>
+
+<div class="message">
+<img src="images/sliderimages/environmental_works4.jpg">
+</div>
+
+
+
+</div>
